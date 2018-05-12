@@ -31,6 +31,8 @@ description: "The Napoleon of Notting Hill is a novel written by G. K. Chesterto
   \ It postulates an impersonal government, not described in any detail, but apparently\
   \ content to operate through a figurehead king, randomly chosen.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20058#The-Napoleon-of-Notting-Hill
 gutenberg_issued: '2006-12-08'
 gutenberg_type: Text
 identifiers:
